@@ -1,0 +1,5 @@
+{
+  "name": "AI Deployment Dashboard",
+  "description": "Dashboard to deploy apps from GitHub or local folders, using AI to determine build and run commands.",
+  "requestFramePermissions": []
+}
